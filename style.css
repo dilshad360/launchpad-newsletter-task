@@ -8,7 +8,7 @@
 body{
     display: flex;
     background-color: black;
-    background: url(/assets/background.jpg) top center;
+    background: url(assets/background.jpg) top center;
     background-size: cover;
     width: 100%;
     background-repeat: no-repeat;
